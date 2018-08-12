@@ -61,24 +61,7 @@ end
 # get every test to pass before coding runner below #
 #####################################################
 
-# def runner
-#   welcome
-#   initial_round
-#   prompt_user
-#   grab = get_user_input
-#   until grab == 'h'
-#   prompt_user 
-#   grab 
-# end
-# end
 
-#   def runner
-#     welcome
-#     initial_round
-#   until hit?(initial_round) > 21
-#     end_game
-#   end
-# end  
 
 def runner
     welcome
